@@ -1,0 +1,6 @@
+var ab='name';
+
+function add(var a, var b){
+alert(a+b);
+
+}
